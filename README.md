@@ -1,1 +1,1 @@
-A 2-d snake game using JavaScript
+A 2-D snake game using JavaScript
